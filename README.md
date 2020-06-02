@@ -1,6 +1,6 @@
 # dealroom_assignement
 
-In this Github project you will find two files for both tasks. 
+In this Github project you will find two folders for both tasks. 
 
 Task 1:
 \\
