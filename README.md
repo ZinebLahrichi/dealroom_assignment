@@ -11,7 +11,9 @@ Task 1:
 -Target file is provided in type.csv
 
 Task2:
+\\
 -Information of the YC company is provided in scraping.csv
+\\
 -Code is provided in Task2.py
 
 
