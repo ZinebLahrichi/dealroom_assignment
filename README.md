@@ -6,17 +6,18 @@ The first tasks consisted in doing data classification by defining a collection 
 On the other hand, the goal of the second task was to retrieve information from a webpage by a scraping method.
 
 Task 1:
-\\
+\
 -Code is provided in Task1.ipynb
-\\
+\
 -Data is provided in firms.csv
-\\
+\
 -Target file is provided in type.csv
-
+\
+\
 Task2:
-\\
+\
 -Information of the YC company is provided in scraping.csv
-\\
+\
 -Code is provided in Task2.py
 
 
