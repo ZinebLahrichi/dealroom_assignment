@@ -2,8 +2,8 @@
 
 In this GitHub Repository you will find the work that was required for a DataScience internship position at a Dutch company. 
 
-The first tasks consisted in doing data classification by defining a collection of rules and building a Decision Tree.
-On the other hand, the goal of the second task was to retrieve information from a webpage by a scraping method.
+The first task consists in doing data classification by defining a collection of rules and building a Decision Tree.\
+The goal of the second task is to retrieve information from a webpage with a scraping method.
 
 Task 1:
 \
